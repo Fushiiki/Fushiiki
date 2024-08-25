@@ -1,6 +1,8 @@
-# ~$ echo "Hello world!" 👋
+<h1 aligh="center">Hello world!</h1> 😎
 
-<p><img alt="glider" title="glideremblem" src="Glider.svg.png" width="30" height="30" /></p>
+<img alt="glider" title="glideremblem" src="Glider.svg.png" width="30" height="30" />
+
+~$ echo
 
 I'm **Fushiiki**, i'm currently working as a Cyber Analyst & Pen Tester.</br>
 I'll be mainly using Github to create my own projects in **C** and **Python** & follow/fork Pen Testing tools.</br>
@@ -8,8 +10,8 @@ I'm **very interested** in **low level programming language** and in general how
 
 My socials:
 
-- [TryHackMe](https://tryhackme.com/p/Fushiiki)
+- [TryHackMe](https://tryhackme.com/p/Fushiiki) 🚩
 
-- [HackerOne (Inactive for now) ](https://hackerone.com/fushiiki)
+- [HackerOne (Inactive for now) ](https://hackerone.com/fushiiki) 🔎
 
 ~$ exit
