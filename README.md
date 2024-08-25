@@ -8,8 +8,8 @@ I'm **very interested** in **low level programming language** and in general how
 
 My socials:
 
-- <a href="https://tryhackme.com/p/Fushiiki" target="_blank">TryHackMe</a>
+- [TryHackMe](https://tryhackme.com/p/Fushiiki)
 
-- <a href="https://hackerone.com/fushiiki/" target="_blank">HackerOne(Inactive for now)</a>
+- [HackerOne(Inactive for now)] (https://hackerone.com/fushiiki)
 
 ~$ exit
