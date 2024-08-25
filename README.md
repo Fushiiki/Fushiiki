@@ -12,4 +12,4 @@ My socials:
 
 - <a href="https://hackerone.com/fushiiki/" target="_blank">HackerOne(Inactive for now)</a>
 
-# ~$ exit
+~$ exit
