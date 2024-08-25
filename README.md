@@ -1,4 +1,4 @@
-<h1 aligh="center">Hello world!</h1> 😎
+<h1 aligh="center">Hello world!😎</h1> 
 
 <img alt="glider" title="glideremblem" src="Glider.svg.png" width="30" height="30" />
 
