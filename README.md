@@ -1,6 +1,6 @@
 # ~$ echo "Hello world!" 👋
 
-<p><img alt="glider" title="glideremblem" src="Glider.svg.png" width="35" height="35" /></p>
+<p><img alt="glider" title="glideremblem" src="Glider.svg.png" width="30" height="30" /></p>
 
 I'm **Fushiiki**, i'm currently working as a Cyber Analyst & Pen Tester.</br>
 I'll be mainly using Github to create my own projects in **C** and **Python** & follow/fork Pen Testing tools.</br>
