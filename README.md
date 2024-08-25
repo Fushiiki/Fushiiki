@@ -1,16 +1,14 @@
-## Hi there 👋
+##~$ echo "Hello world!" 👋
 
-<!--
-**Fushiiki/Fushiiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fushiiki, i'm currently working as a Cyber Analyst & Pen Tester.
+I'll be mainly using Github to create my own projects in C and Python & follow/fork Pen Testing tools.
+I'm very interested in low level programming language and in general how devices works under the hood.
 
-Here are some ideas to get you started:
+My socials:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://tryhackme.com/p/Fushiiki" target="_blank">TryHackMe</a>
+
+<a href="https://hackerone.com/fushiiki/" target="_blank">HackerOne(Inactive for now)</a>
+
+
+~$ exit
