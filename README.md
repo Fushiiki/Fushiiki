@@ -10,6 +10,6 @@ My socials:
 
 - [TryHackMe](https://tryhackme.com/p/Fushiiki)
 
-- [HackerOne(Inactive for now)] (https://hackerone.com/fushiiki)
+- [HackerOne (Inactive for now) ](https://hackerone.com/fushiiki)
 
 ~$ exit
